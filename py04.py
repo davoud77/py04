@@ -12,3 +12,4 @@ age = 1998
 year = 2023
 
 print(year - age)
+print(1500)
