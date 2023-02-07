@@ -5,3 +5,8 @@ name = "davoud"
 family = "fathi"
 
 print(name, family, family)
+
+age = 1998
+year = 2023
+
+print(year - age)
